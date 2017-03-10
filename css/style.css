@@ -1,0 +1,35 @@
+body{
+	background: #B2DBBF
+}
+h1{
+	color: #FF1654;
+	font-family: 'Amatic SC', cursive;
+}
+
+h3{
+	color: #247BA0;
+	font-family: 'Ranga', cursive;
+	font-style: bold;
+	text-transform: lowercase;
+
+}
+
+h3.titulo1{
+	color: #F3FFBD;
+	font-family: 'Amatic SC', cursive;
+	font-style: italic;
+	font-size: 40px;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+p{
+	color: black;
+	font-style: bold;
+	font-size: 15px;
+}
+
+/*
+font-family: 'Ranga', cursive;
+font-family: 'Amatic SC', cursive;
+*/
